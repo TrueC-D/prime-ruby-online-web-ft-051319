@@ -10,3 +10,5 @@ def prime?(x)
     end
   end 
 end
+  true
+end
