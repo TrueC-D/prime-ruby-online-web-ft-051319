@@ -1,5 +1,4 @@
-  true
-enddef prime?(x)
+def prime?(x)
   if x == 2
     return true 
   elsif x < 2
@@ -10,4 +9,6 @@ enddef prime?(x)
       return false 
     end
   end 
+end
+  true
 end
